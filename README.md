@@ -3,6 +3,9 @@
 A plugin for [FourFold Account Manager](https://github.com/CodySimonds65/FourFoldAccountManager). Set a level goal
 for each account: the panel shows progress toward it, and an overlay card shows the level and the XP per hour.
 
+Its numbers come from FourFold's XP tracker. Where FourFold has the live game feed, they update after every fight;
+otherwise, about once a minute.
+
 It is listed on the [plugin hub](https://github.com/CodySimonds65/FourFoldAccountManager-plugin-hub), so FourFold
 users install it from the plugin list: the wrench in the plugin strip, then **Plugin hub**.
 

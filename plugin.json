@@ -2,7 +2,7 @@
   "id": "fourfold.goal-tracker",
   "name": "Goal tracker",
   "shortLabel": "Goals",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "FourFold",
   "description": "Tracks a level goal per account and shows progress on a card.",
   "apiVersion": 1,
